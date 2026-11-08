@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oyajibuki.github.io/irohaLP/sitemap.xml
